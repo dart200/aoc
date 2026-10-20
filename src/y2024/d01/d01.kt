@@ -29,7 +29,7 @@ fun main() {
     }
     println("Q1: $totalDiff")
 
-    var score = 0; var i0 = 0; var i1 = 0; var reps1 = 0;
+    var score = 0; var i0 = 0; var i1 = 0; var reps1 = 0
     while (i0 < arr0.size && i1 < arr1.size) {
         val num0 = arr0[i0]
         val num1 = arr1[i1]
